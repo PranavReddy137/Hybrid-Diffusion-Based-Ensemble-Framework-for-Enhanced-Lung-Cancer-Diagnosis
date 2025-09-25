@@ -1,2 +1,0 @@
-# Hybrid-Diffusion-Based-Ensemble-Framework-for-Enhanced-Lung-Cancer-Diagnosis
-This approach leverages a diffusion model as robust feature extractor learning noise-resistant representations from CT images via its denoising process. Extracted latent features from intermediate layers of a diffusion network are aggregated rapidly and utilized as input for a deep learning classifier ensemble subsequently.
