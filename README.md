@@ -40,6 +40,8 @@ All dependencies are pre-installed in Colab.
 - The model learns to extract latent features using 1000-step forward and reverse noise processing.
 - Best model weights are saved to `/MyDrive/lung_cancer_models/`.
 
+![Demo screenshot 1](Snapshots/implementation.png)
+
 
 ### 4. Extract Features
 - After training, extract features from the CT scans using the trained diffusion model.
@@ -72,6 +74,8 @@ All dependencies are pre-installed in Colab.
   - ROC curve with AUC
   - Bar chart comparing classifiers
   - Line chart comparing with existing literature
+
+ ![Demo screenshot 2](Snapshots/Comparitive%20analysis.png)
 
 
 ### 8. Output
